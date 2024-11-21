@@ -1,0 +1,11 @@
+
+
+.container {
+    padding: 5px;
+    border-radius: 10px;
+    background: #cbf8fb;
+    box-shadow:  -20px -20px 60px #9bf2f7,
+                 20px 20px 60px #313434;
+
+}
+
